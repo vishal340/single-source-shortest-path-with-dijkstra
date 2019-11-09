@@ -1,5 +1,7 @@
 # single-source-shortest-path-with-dijkstra
 
+This readme file is only for sequencetial_with_weight_dijkstra.cpp file.
+
 The sample graph used in this code can be found in the link below:
 https://indianinstituteofscience-my.sharepoint.com/:u:/g/personal/banwesha_iisc_ac_in/EYFCZdlppfFJtC4ABg4x8w4BKyAxyvsD-p8P5IEUjP4w5Q?e=Jt5y5Y
 
