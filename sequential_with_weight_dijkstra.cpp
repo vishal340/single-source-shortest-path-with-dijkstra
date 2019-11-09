@@ -10,6 +10,12 @@
 #include<list>
 
 
+//Input method: 1st argument is source vertex and second argument is graph set
+//The input file should have exactly one edge in each line
+//Even with that adjust the function "edge info" below according to input file
+//look into Readme.md for additional information
+
+
 int binary_search(std::list<std::pair<int,int> >::iterator &it,int source,int end,int value,int vertex){
     if(source+1>=end){
         if(source==end)
